@@ -1,0 +1,5 @@
+Linkedin Trending post url -- 
+https://rapidapi.com/mgujjargamingm/api/linkedin-bulk-data-scraper/playground/apiendpoint_8b6e5fdb-e670-46b8-8472-794e298db517
+
+Linkedin User url --
+https://rapidapi.com/mgujjargamingm/api/linkedin-bulk-data-scraper/playground/apiendpoint_eee12490-a5e8-4557-b361-00e726fd3f03
